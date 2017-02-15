@@ -1,0 +1,2 @@
+# tensorflow_math_ja_06
+コンパスイベント TensorFlow と機械学習に必要な数学を基礎から学会06回
